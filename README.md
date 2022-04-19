@@ -7,7 +7,7 @@
 
 ## About Me
 
-A polygot software programmer, a polymath person, a candid cerebral, a humble humanitarian
+:bowtie: A polygot programmer and a polymath person
 
 ### Skills
 - Technical Leadership
@@ -21,9 +21,9 @@ A polygot software programmer, a polymath person, a candid cerebral, a humble hu
 - Hiring and Recruiting
 
 ## Interests
--- Open Source software 
--- Reading 
--- Hiking
+    > Open Source software 
+    > Reading 
+    > Hiking
 
 <!--
 **10xtechie/10xtechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
